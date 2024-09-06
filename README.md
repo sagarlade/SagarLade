@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sagar Lade</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi 👋, I'm Sagar Lade
+
+## A Passionate Frontend Developer from India
 
 <img
   align="right"
@@ -8,29 +9,29 @@
   src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
 />
 
-- 🌱 I’m currently learning **MERN STACK** - 👨‍💻 All of my projects are available
-at [https://github.com/sagarlade](https://github.com/sagarlade) - 💬 Ask me
-about **react javascript python c#** - 📫 How to reach me
-**sagarlade37@gmail.com** - 📄 Know about my experiences
-[https://drive.google.com/file/d/1AjPBlbZTw8NiKrU2n8Hub343xgTJT9dY/view?usp=drivesdk]
-- ⚡ Fun fact **I am funny 😅**
+- 🌱 I’m currently learning **MERN Stack**
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sagarlade)
+- 💬 Ask me about **React, JavaScript, Python, C#**
+- 📫 How to reach me: **sagarlade37@gmail.com**
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1AjPBlbZTw8NiKrU2n8Hub343xgTJT9dY/view?usp=drivesdk)
+- ⚡ Fun fact: **I am funny 😅**
 
-<h3 align="left">Connect with me:</h3>
+## Connect with Me
+
 <p align="left">
-  <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/sagar-lade/"
-    target="blank"
-    ><img
+  <a href="https://linkedin.com/in/sagar-lade/" target="blank">
+    <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/sagar-lade/"
+      alt="Sagar Lade"
       height="30"
       width="40"
-  /></a>
+    />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<h3 align="center">Languages and Tools:</h3>
+## Languages and Tools
+
 <p align="center">
   <span style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
@@ -108,7 +109,9 @@ about **react javascript python c#** - 📫 How to reach me
   </span>
 </p>
 
-<p>
+## GitHub Stats
+
+<p align="center">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarlade&show_icons=true&locale=en&layout=compact"
@@ -119,7 +122,28 @@ about **react javascript python c#** - 📫 How to reach me
 <p>
   <img
     align="center"
+    src="https://github-readme-stats.vercel.app/api?username=sagarlade&show_icons=true&locale=en"
+    alt="sagarlade"
+  />
+</p>
+
+<p align="center">
+  <img
+    align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=sagarlade&"
     alt="sagarlade"
   />
 </p>
+
+<p align="center">
+  <img
+    align="center"
+    src="https://activity-graph.herokuapp.com/graph?username=sagarlade&theme=react-dark"
+    alt="sagarlade"
+  />
+</p>
+
+<!---
+sagarlade/sagarlade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
